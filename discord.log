@@ -1,0 +1,14 @@
+logging in using static token
+Shard ID None has sent the IDENTIFY payload.
+Shard ID None has connected to Gateway: ["gateway-prd-main-0nnq",{"micros":60379,"calls":["discord-sessions-prd-2-26",{"micros":59359,"calls":["start_session",{"micros":46798,"calls":["api-prd-main-8ts5",{"micros":43910,"calls":["get_user",{"micros":2453},"add_authorized_ip",{"micros":1378},"get_guilds",{"micros":22596},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":8356,"calls":[]}]}]}] (Session ID: 69b4887182ccc67a6a675aa5f54405cd).
+logging in using static token
+Shard ID None has sent the IDENTIFY payload.
+Shard ID None has connected to Gateway: ["gateway-prd-main-0f4w",{"micros":101957,"calls":["discord-sessions-prd-2-91",{"micros":100536,"calls":["start_session",{"micros":48809,"calls":["api-prd-main-m332",{"micros":43146,"calls":["get_user",{"micros":2551},"add_authorized_ip",{"micros":4510},"get_guilds",{"micros":17337},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":25843,"calls":[]}]}]}] (Session ID: e8cd3d78a3e3eac3f35b0968544b5cd2).
+logging in using static token
+Shard ID None has sent the IDENTIFY payload.
+Shard ID None has connected to Gateway: ["gateway-prd-main-5k7g",{"micros":53602,"calls":["discord-sessions-prd-2-147",{"micros":51628,"calls":["start_session",{"micros":44290,"calls":["api-prd-main-8ts5",{"micros":36993,"calls":["get_user",{"micros":3106},"add_authorized_ip",{"micros":2926},"get_guilds",{"micros":5002},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":110,"calls":[]}]}]}] (Session ID: 71a0583d0bdcc697f984f40b3dd3b1fd).
+Connecting to voice...
+Starting voice handshake... (connection attempt 1)
+Voice handshake complete. Endpoint found south-korea1008.discord.media
+selected the voice protocol for use (xsalsa20_poly1305_lite)
+received secret key for voice connection
